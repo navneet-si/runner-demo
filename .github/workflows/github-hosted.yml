@@ -1,4 +1,5 @@
-name: GitHub Hosted Runner Demo on:  
+name: GitHub Hosted Runner Demo 
+on:  
 push:    
 branches:      
 - master  
